@@ -8,5 +8,6 @@ The problem is solved by using the logical not operation after converting the im
 These centroids make a set of coordinates that are further used for application of the least square method to compute the estimated parabolic trajectory. Consider the following plots which demonstrate
 the calculated parabola.
 <img src="https://github.com/user-attachments/assets/03a620c8-88cc-4930-872a-fe77894e8b0c" alt="parabola_plot" width="500"/>
+
 Another plot that shows the estimated trajectory on a frame extracted from the video.
 <img src="https://github.com/user-attachments/assets/1a1e1b42-3a4f-4d88-b0c1-e986c241ce90" alt="parabola_image" width="500"/>
