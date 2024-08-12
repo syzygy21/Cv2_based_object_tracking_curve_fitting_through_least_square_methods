@@ -9,4 +9,7 @@ These centroids make a set of coordinates that are further used for application 
 the calculated parabola.
 
 ![parabola_plot](https://github.com/user-attachments/assets/03a620c8-88cc-4930-872a-fe77894e8b0c)
+
+Another plot that shows the estimated trajectory on a frame extracted from the video.
+
 ![parabola_image](https://github.com/user-attachments/assets/1a1e1b42-3a4f-4d88-b0c1-e986c241ce90)
